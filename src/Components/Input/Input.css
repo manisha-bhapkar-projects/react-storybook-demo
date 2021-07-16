@@ -1,0 +1,25 @@
+.input{
+    display: block;
+    width: 400px;
+    padding-left: 10px;
+    padding-right: 10px;
+    border: 1px solid;
+    border-radius: 5px;
+    border-color: inherit;
+    background-color: white;
+}
+
+.small{
+  height: 50px;
+  font-size: 14px;
+}
+
+.medium{
+    height: 60px;
+    font-size: 16px;
+  }
+
+  .large{
+    height: 90px;
+    font-size: 18px;
+  }
